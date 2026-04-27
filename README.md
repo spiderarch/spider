@@ -1,19 +1,19 @@
 # spider 
 
-How is this?
-- Hi I'm spider, I'm a C learner and thinking about expanding to SQL and more
+how is this?
+- hi i'm spider, i'm a C learner and thinking about expanding to SQL and more
 
-- My goal is to be a computer engineer specializing in cybersecurity
+- my goal is to be a computer engineer specializing in cybersecurity
 
-- I use Arch Linux on Hyprland with Caelestia Shell
+- i use arch linux on hyprland with caelestia shell
 
-## Discord 
+## discord 
 ![My Skills](https://skillicons.dev/icons?i=discord)
 
-- Link: https://discord.gg/ZaXdn6Qm5T
+- link: https://discord.gg/ZaXdn6Qm5T
 
 
-## Stats
+## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderarch&show_icons=true&theme=dark&bg_color=000000&icon_color=ffffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderarch&layout=compact&theme=dark&bg_color=000000)
